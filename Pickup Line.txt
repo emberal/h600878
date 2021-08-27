@@ -1,0 +1,22 @@
+package nerdy.pickup.lines;
+
+public class GetSnap {
+
+public static void main(String[] args) {
+
+//Definer søt jente
+String navn;
+//Definer meg selv
+String martin;
+
+  if (martin.pickupLine == success) {
+    boolean getPizza == true;
+    return navn.Snap;
+  }
+  else {
+    martin = "Trist";
+    boolean fjernMatch = true;
+  }
+
+    }
+}
