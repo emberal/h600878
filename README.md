@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin
 - 👀 I’m interested in TV, films, games, hiking
-- 🌱 I’m currently learning Java, HTML and CSS
+- 🌱 I’m currently learning Java, HTML, CSS & Haskell
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me Martials:matrix.org on Matrix
