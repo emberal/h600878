@@ -10,8 +10,5 @@
 
 <br>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=h600878)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=h600878)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
-![counter](https://engv9lixq2f3rpd.m.pipedream.net)
