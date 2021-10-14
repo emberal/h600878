@@ -6,9 +6,11 @@
 
 ---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=h600878)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=h600878&count_private=true)
 
 <br>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=h600878)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h600878&layout=compact)](https://github.com/h600878/github-readme-stats)
+
+
 
