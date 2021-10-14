@@ -6,11 +6,11 @@
 
 ---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zaidajani)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=h600878)
 
 <br>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidajani)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=h600878)]()
 
 <br>
 
