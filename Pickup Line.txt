@@ -2,21 +2,23 @@ package nerdy.pickup.lines;
 
 public class GetSnap {
 
-public static void main(String[] args) {
+  public static void main(String[] args) {
+  
+    boolean getPizza = false;
+    boolean fjernMatch = false;
 
-//Definer søt jente
-String navn;
-//Definer meg selv
-String martin;
+    //Definer søt jente
+    Nerd navn = new Nerd();
+    //Definer meg selv
+    Nerd martin = new Nerd();
 
-  if (martin.pickupLine == success) {
-    boolean getPizza == true;
-    return navn.Snap;
-  }
-  else {
-    martin = "Trist";
-    boolean fjernMatch = true;
-  }
-
+    if (martin.pickupLine == success) {
+      getPizza = true;
+      System.out.println(navn.getSnap() );
     }
+    else {
+      martin.setMood("Trist");
+      fjernMatch = true;
+    }
+  }
 }
