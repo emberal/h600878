@@ -30,6 +30,15 @@ Bravida Norge AS | Trondheim | 2017 - 2021 | Montør Elektriker
 
 ---
 
+### Programmeringsspråk, sortert etter erfaring
+
+- Java
+- HTML / CSS
+- MATLAB
+- Haskell
+
+---
+
 ### Prosjekt- og annen erfaring
 
 Prosjekt                       | Tidspunkt   | Rolle
