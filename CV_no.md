@@ -33,9 +33,12 @@ Bravida Norge AS | Trondheim | 2017 - 2021 | Montør Elektriker
 ### Programmeringsspråk, sortert etter erfaring
 
 - Java
+  - JPA
+- PostgreSQL
 - HTML / CSS
 - MATLAB
 - Haskell
+- Vala
 
 ---
 
