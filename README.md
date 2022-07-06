@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin
 - 👀 I’m interested in Tech, TV & films, games & hiking
-- 🌱 I’m currently learning Java, JavaScript, SQL, HTML, CSS & MATLAB
+- 🌱 I’m currently learning Java, JavaScript / Typescript, Dart, SQL, HTML, CSS & MATLAB
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me Martials:matrix.org on Matrix
 
